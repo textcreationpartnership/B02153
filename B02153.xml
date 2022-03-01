@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Christians nightly care.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02153</idno>
+            <idno type="STC">Wing C3958</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[500]</idno>
+            <idno type="EEBO-CITATION">99884563</idno>
+            <idno type="PROQUEST">ocm99884563</idno>
+            <idno type="VID">183183</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02153)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183183)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[267])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Christians nightly care.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "When thou hast spent the longsom (day ..."</note>
+                  <note>Printed with two other ballads on same half sheet: "Sad marshall to the singing larke," and "The reply of the lark".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:183183:1"/>
+            <!-- PDF PAGE 17 -->
+            <head>A Chriſtians nightly Care.</head>
+            <lg>
+               <l>WHen thou haſt ſpent the longſom day,</l>
+               <l>in pleaſure and delight,</l>
+               <l>And after toile, and wearie way,</l>
+               <l>does ſeek thy reſt at night,</l>
+               <l>Into thy pain and pleaſure paſt,</l>
+               <l>eke this in labour yet:</l>
+               <l>Ere ſleep cloſe up thine eyes too faſt,</l>
+               <l>do not thy God forget.</l>
+            </lg>
+            <lg>
+               <l>But ſearch within thy ſecret thoghts,</l>
+               <l>what deeds did thee he fall:</l>
+               <l>And if thou find a miſſe in ought,</l>
+               <l>to God for mercie call,</l>
+               <l>But if thou find nothing amiſſe,</l>
+               <l>that thou canſt call to minde:</l>
+               <l>Yet evermore remember this,</l>
+               <l>there is the more behinde:</l>
+            </lg>
+            <lg>
+               <l>And look how well ſoever it be,</l>
+               <l>that thou haſt ſpent this day:</l>
+               <l>It came of God, and not of thee,</l>
+               <l>ſo to direct thy way.</l>
+               <l>Thus if thou try thy daily deeds,</l>
+               <l>and pleaſure in this pain:</l>
+               <l>Thy life ſhall cleanſe thy corn from weeds</l>
+               <l>and thine ſhall be the gain.</l>
+            </lg>
+            <lg>
+               <l>But if thy ſleepy ſinfull eye,</l>
+               <l>will venter for to wink,</l>
+               <l>Before thy wilfull will may try,</l>
+               <l>how far thy ſoul may ſink:</l>
+               <l>Beware and walk, or elſe thy bed</l>
+               <l>which ſoft and ſmooth is made:</l>
+               <l>Shall heap more evil upon thy head,</l>
+               <l>then ſtroak of enemies blade.</l>
+            </lg>
+            <lg>
+               <l>But if thy pain procure thine eaſe,</l>
+               <l>in bed as thou doſtly,</l>
+               <l>I'm ſure it will not God diſpleaſe,</l>
+               <l>to ſing this ſoberly.</l>
+               <l>I ſee that ſleep is lent me here,</l>
+               <l>to eaſe my wearie bones,</l>
+               <l>As death <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t length will once appear,</l>
+               <l>to eaſe my grievous groanes.</l>
+            </lg>
+            <lg>
+               <l>My daily ſports with bellie fed,</l>
+               <l>would cauſe my ſleepy eye,</l>
+               <l>To ſleep ſo ſound in quiet bed,</l>
+               <l>whereby my ſoul might die:</l>
+               <l>The ſtretching arms, the ganting breath,</l>
+               <l>that in my bed I uſe:</l>
+               <l>Are portraicts of the pangs of death,</l>
+               <l>when life ſhall me refuſe:</l>
+            </lg>
+            <lg>
+               <l>And as my bed each ſundry part,</l>
+               <l>in ſhadows doth reſemble:</l>
+               <l>Then ſundry ſhapes of death, whoſe dart</l>
+               <l>will make my heart to tremble:</l>
+               <l>My bed it ſelfe is like the grave,</l>
+               <l>my ſheets, the winding ſheet:</l>
+               <l>My cloathes, the moulds which I muſt have</l>
+               <l>to cover me moſt meet.</l>
+            </lg>
+            <lg>
+               <l>The hungry flaes, that lowp moſt freſh</l>
+               <l>to worms I can compare,</l>
+               <l>Which greedily will eat my fleſh,</l>
+               <l>and leave my bones right bare:</l>
+               <l>The waking Cock that airly crowes,</l>
+               <l>to put the night away,</l>
+               <l>Puts me to minde the Trump that blowes</l>
+               <l>before the latter day,</l>
+            </lg>
+            <lg>
+               <l>Then as I riſe us luſtily,</l>
+               <l>when ſluggiſh ſleep is paſt,</l>
+               <l>So hope I to riſe joyfullie,</l>
+               <l>to judgement at the laſt.</l>
+               <l>Thus will I wake, thus will I ſleep,</l>
+               <l>thus will I hope to riſe.</l>
+               <l>Thus will I neither wail nor weep,</l>
+               <l>but ſing in holy guiſe.</l>
+            </lg>
+            <lg>
+               <l>My bones ſhall in this bed remain,</l>
+               <l>my ſoul in God ſhall truſt:</l>
+               <l>By whom I hope to riſe again</l>
+               <l>from death and earthly duſt,</l>
+               <l>All laud and praiſe be to the Lord,</l>
+               <l>and alſo to his Sonne</l>
+               <l>And likewiſe to the holy Ghoſt,</l>
+               <l>and ſo my ſong is done.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Sad Marſhall to the ſinging Larke,</head>
+            <lg>
+               <l>O Bleſſed bird, whoſe ſoaring Song,</l>
+               <l>declares the lightſome day!</l>
+               <l>I'm forc'd to bleſſe thy little tongue,</l>
+               <l>for thy ſolacious Lay,</l>
+               <l>Yea, whilſt I think on thine eſtate,</l>
+               <l>and hear thine Harmonie,</l>
+               <l>I find my ſelf to be ungrate,</l>
+               <l>who ſad and ſilent lie;</l>
+            </lg>
+            <lg>
+               <l>For thou haſt neither Lands, nor Rent,</l>
+               <l>nor Riches laid in ſtore:</l>
+               <l>And yet doeſt ſing as ſull content,</l>
+               <l>and with thy Song doeſt ſoar,</l>
+               <l>But I to whom the loving Lord</l>
+               <l>hath been more liberal,</l>
+               <l>I ſigh and cannot ſing a word,</l>
+               <l>nor move no mirth at all.</l>
+               <l>What is the cauſe that I deplore,</l>
+               <l>whilſt thou ſo ſweetly ſings,</l>
+               <l>But that I bunt to have much more</l>
+               <l>than yet my fortune brings:</l>
+               <l>But thou into thy mind's at reſt,</l>
+               <l>contented with thy Lot:</l>
+               <l>Whilſt I with cares am thus oppreſt,</l>
+               <l>thou chant'ſt a chearfull note,</l>
+            </lg>
+            <lg>
+               <l>The mean to move me unto mirth,</l>
+               <l>then is to be content:</l>
+               <l>And eke with thee to leave the Earth,</l>
+               <l>and peirce the Firmament;</l>
+               <l>For here below is nothing elſe,</l>
+               <l>but croſſe, with changing toyes,</l>
+               <l>But they that in the higheſt dwell</l>
+               <l>have everlaſting Joyes.</l>
+            </lg>
+            <lg>
+               <l>My bleſſed bird, tyre not thy tune,</l>
+               <l>move on thy muſick ſweet,</l>
+               <l>For I with cares was quite undone,</l>
+               <l>till thou reviv'd my Spirit,</l>
+               <l>And now, ſince thou haſt me reſtor'd,</l>
+               <l>with thee I'll ſoar, and ſing:</l>
+               <l>Giving all laud unto the Lord,</l>
+               <l>my high and heaven lie King</l>
+            </lg>
+            <trailer>Finis, quod <hi>Marſhal.</hi>
+            </trailer>
+         </div>
+         <div type="poem">
+            <head>The Reply of the Lark.</head>
+            <lg>
+               <l>O Man! ſigh on, for thou haſt cauſe</l>
+               <l>to ſorrow for thy ſin,</l>
+               <l>GOD unto me hath giv'n no Lawes,</l>
+               <l>to lead my life therein:</l>
+               <l>But by his will be me ordains,</l>
+               <l>to ſing, and ſhow the day:</l>
+               <l>But thou, O man! who grief ſuſtains;</l>
+               <l>ſhould bow thy knee, and prey.</l>
+            </lg>
+            <lg>
+               <l>Man! thou ſhouldſt be more ſad than I,</l>
+               <l>more dangerous is thy ſtate:</l>
+               <l>The world, the fleſh, and old <gap reason="illegible: damage" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>by,</l>
+               <l>thou haſt with to debate.</l>
+               <l>High is the pryze, if thou take care,</l>
+               <l>that GOD ſhall to thee gi<gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Hard is the caſe, if thou deſpa<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</l>
+               <l>or yet ſecure lie live.</l>
+            </lg>
+            <lg>
+               <l>Short while thou haſt for to d<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>plore:</l>
+               <l>far ſhorter <hi>I</hi> to ſing.</l>
+               <l>A year, or two, or little mor<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>to me my date ſhall bring,</l>
+               <l>And when the winter waxeth bold,</l>
+               <l>my layes ſhall lurk full lov:</l>
+               <l>For I muſt ſhield me in ſome hold,</l>
+               <l>till brumal blaſts o'reblow.</l>
+            </lg>
+            <lg>
+               <l>Yea, fragrant flowrs in ſummer fair</l>
+               <l>ſhall then both droup and die:</l>
+               <l>Fiſh in the floods, fowls in the Air,</l>
+               <l>have their adverſitie.</l>
+               <l>For every time is not the Spring:</l>
+               <l>no ſtate ſtands ay at ones</l>
+               <l>There is a time for us to ſting,</l>
+               <l>a time for ſighs and groans.</l>
+            </lg>
+            <lg>
+               <l>Take everie ſtate to come from God,</l>
+               <l>both wealth, want, weal, and wo,</l>
+               <l>And when he layes on thee his Rad,</l>
+               <l>thy viſitation know:</l>
+               <l>Yea, when he makes thy cup to flow,</l>
+               <l>think on adverſitie:</l>
+               <l>Leſt that thy wealth thy wit o'rgrow;</l>
+               <l>in thy proſperitie.</l>
+            </lg>
+            <lg>
+               <l>Yet le<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no ſadneſſe thee o'rthrow,</l>
+               <l>for trifles which thou tires:</l>
+               <l>Oft whilſt t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e earth is clad with ſnow,</l>
+               <l>the Sun moſt brig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tlie ſhines,</l>
+               <l>Though for un<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>wn, be not afraid</l>
+               <l>each cloud is not a ſhower</l>
+               <l>When griefe is gone, and thou art glad,</l>
+               <l>it ſhall be ſweet that's ſowre</l>
+            </lg>
+            <lg>
+               <l>No mortal man may climb the top</l>
+               <l>of full felicitie:</l>
+               <l>We do but ſeldom hit our Scope,</l>
+               <l>how low ſoever it be,</l>
+               <l>Though thou wer't mounted to the hight</l>
+               <l>whereto thy thoughts aſpir<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</l>
+               <l>Some higher object out o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſight</l>
+               <l>would kindle new deſires.</l>
+            </lg>
+            <lg>
+               <l>Then let no world lie vanitie</l>
+               <l>in vain oppreſſe thy ſp'rit,</l>
+               <l>Come. ſoar with me above the Skie,</l>
+               <l>to thy Redeemer ſweet,</l>
+               <l>Sing of thy laſting libertie,</l>
+               <l>when all theſe pains are paſt:</l>
+               <l>Sing of thy joyfull jubilie,</l>
+               <l>thou ſhalt enjoy at laſt,</l>
+            </lg>
+            <lg>
+               <l>So ſhall thy wiſhes be compleat,</l>
+               <l>to the moſt high degree:</l>
+               <l>So shall thy preſent croſſe be ſweet,</l>
+               <l>how ſowre ſoever it be,</l>
+               <l>Then ſing, and ſigh; ſigh and ſing,</l>
+               <l>till thou enjoy that Day</l>
+               <l>Of perfect joy, with Chriſt thy King,</l>
+               <l>where thou shalt ſing for ay.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
